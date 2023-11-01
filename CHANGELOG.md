@@ -11,4 +11,3 @@
 
 *Breaking Changes*
 * ...
-.
