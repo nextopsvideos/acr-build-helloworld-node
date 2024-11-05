@@ -1,0 +1,1 @@
+testing azure acr quick task functionality
