@@ -60,4 +60,4 @@ Although intended for use with the companion articles, you can perform the follo
 [multi-step]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-multistep-task
 [docs]: http://docs.microsoft.com
 
-to run azure acr quick task
+to trigger az acr task automatically
